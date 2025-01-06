@@ -5,7 +5,7 @@ This GitHub organization was built to act as a centralized resource to improve v
 ## Purpose / Motivation  
 At any given UCSB NRS site it can be difficult to know what research has been or is being done, what data is available, and who else is working there that could be a potential collaborator. The purpose of this organization is to provide a place for researchers to host their projects and get connected with others working at a given site. 
 
-Also facilitates collaboration through the Discussions, allows direct collaboration by granting others access to your code and the assignment of issues, etc. - To learn more see [Advantages of Using GitHub](placeholderlink) . 
+Also facilitates collaboration through the Discussions, allows direct collaboration by granting others access to your code and the assignment of issues, etc. To learn more see [Advantages of Using GitHub](placeholderlink) . 
 
 ## How it works
 
@@ -45,6 +45,7 @@ External repositories can be found in our [Research Index](placeholderlink) page
 |Sedgwick            | sedg    |
 |Sierra Nevada Aquatic Research Lab | snarl |
 |Valentine Camp      | val  |
+__Table 1:__ Site prefix key. 
 
 Additionally, repositories can be categorized using “topic” tags such as “botany”, “climate”, “hydrology”, etc. The set of tags is still under development as the organization evolves - reach out with any suggestions!
 
