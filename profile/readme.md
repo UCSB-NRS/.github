@@ -45,6 +45,7 @@ External repositories can be found in our [Research Index](placeholderlink) page
 |Sedgwick            | sedg    |
 |Sierra Nevada Aquatic Research Lab | snarl |
 |Valentine Camp      | val  |
+
 __Table 1:__ Site prefix key. 
 
 Additionally, repositories can be categorized using “topic” tags such as “botany”, “climate”, “hydrology”, etc. The set of tags is still under development as the organization evolves - reach out with any suggestions!
