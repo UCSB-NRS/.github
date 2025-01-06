@@ -49,8 +49,6 @@ __Table 1:__ Site prefix key.
 
 Additionally, repositories can be categorized using “topic” tags such as “botany”, “climate”, “hydrology”, etc. The set of tags is still under development as the organization evolves - reach out with any suggestions!
 
-## Repository Best Practices (Link)
-
 # Other Resources/Links  
 _This section is under development_
 
