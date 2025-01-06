@@ -1,5 +1,5 @@
 # About this GitHub Organization. 
----  
+
 This GitHub organization was built to act as a centralized resource to improve visibility of research occurring at UCSB NRS sites. If interested in hosting your research here, reach out to get added to the team or get your affiliated organization added to the index. 
 
 ## Purpose / Motivation  
@@ -32,8 +32,6 @@ nrs-nrs-data@ucsb.edu
 
 # Structure
 
----
-
 Repository names are prefixed by the site that they are associated with. The site prefix key can be found below in table 1. In order to find research projects at a particular site, using the “Find a repository” search bar and enter the prefix for that site. We request that all members of the organization follow the convention of prefixes their repository name by site. 
 
 External repositories can be found in our [Research Index](placeholderlink) page.
@@ -54,8 +52,6 @@ Additionally, repositories can be categorized using “topic” tags such as “
 
 # Other Resources/Links  
 _This section is under development_
-
----
 
 - Data Sources
     - [Dendra](https://dendra.science/)
