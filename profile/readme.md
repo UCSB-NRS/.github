@@ -2,6 +2,8 @@
 
 This GitHub organization was built to act as a centralized resource to improve visibility of research occurring at UCSB NRS sites. If interested in hosting your research here, reach out to get added to the team or get your affiliated organization added to the index. 
 
+To get involved, see our [Quickstart Guide](https://github.com/UCSB-NRS/resources/blob/main/quickstart.md).
+
 ## Purpose / Motivation  
 At any given UCSB NRS site it can be difficult to know what research has been or is being done, what data is available, and who else is working there that could be a potential collaborator. The purpose of this organization is to provide a place for researchers to host their projects and get connected with others working at a given site. 
 
@@ -53,16 +55,13 @@ Additionally, repositories can be categorized using “topic” tags such as “
 # Other Resources/Links  
 _This section is under development_
 
+- Documents
+    - [Quickstart Guide](https://github.com/UCSB-NRS/resources/blob/main/quickstart.md)
+    - Best Practices
+    - Advantages of Using GitHub
+    - Research Index
+    - FAQ
+ 
 - Data Sources
     - [Dendra](https://dendra.science/)
     - [DataONE](https://www.dataone.org/)
-- Documents
-    - Quickstart Guide
-    
-    - [Best Practices](placeholderlink)
-    
-    - [Advantages of Using GitHub](placeholderlink)
-    
-    - [Research Index](placeholderlink)
-    
-    - [FAQ](placeholderlink)
