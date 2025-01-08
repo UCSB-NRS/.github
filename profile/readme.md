@@ -59,7 +59,7 @@ _This section is under development_
 
 - Documents
     - [Quickstart Guide](https://github.com/UCSB-NRS/resources/blob/main/quickstart.md)
-    - Best Practices
+    - [Best Practices](https://github.com/UCSB-NRS/resources/blob/main/best-practices.md)
     - Advantages of Using GitHub
     - Research Index
     - FAQ
