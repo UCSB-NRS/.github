@@ -47,10 +47,10 @@ External repositories can be found in our [Research Index](placeholderlink) page
 |Coal Oil Point      | cop |
 |K.S.N Rancho Marino | rancho |
 |Sedgwick            | sedg    |
-|Sierra Nevada Aquatic Research Lab | snarl |
+|Valentine Eastern Sierra Reserves | vesr |
 |Valentine Camp      | val  |
 
-__Table 1:__ Site prefix key. 
+__Table 1:__ Site prefix key. Note that VESR includes both Valentine Camp and SNARL. 
 
 Additionally, repositories can be categorized using “topic” tags such as “botany”, “climate”, “hydrology”, etc. The set of tags is still under development as the organization evolves - reach out with any suggestions!
 
