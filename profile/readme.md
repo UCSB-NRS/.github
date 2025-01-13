@@ -48,7 +48,6 @@ External repositories can be found in our [Research Index](placeholderlink) page
 |K.S.N Rancho Marino | rancho |
 |Sedgwick            | sedg    |
 |Valentine Eastern Sierra Reserves | vesr |
-|Valentine Camp      | val  |
 
 __Table 1:__ Site prefix key. Note that VESR includes both Valentine Camp and SNARL. 
 
