@@ -1,7 +1,7 @@
 # About this GitHub Organization. 
 *Note that this organization is currently under development. We are currently continuing to add resources and repositories as of 03/24/25.*
 
-This GitHub organization was built to act as a centralized resource to improve visibility of research occurring at UCSB NRS sites. If interested in hosting your research here, reach out to get added to the team or get your affiliated organization added to the index. 
+This GitHub organization was built to act as a centralized resource to improve visibility of research occurring at UCSB NRS sites. If interested in hosting your research here, reach out to get your repository added to the index or organizaton added to our list. 
 
 ## Click [HERE](https://github.com/UCSB-NRS/resources/blob/main/research-index.md) for Repositories Associated with UCSB NRS Sites  
 
