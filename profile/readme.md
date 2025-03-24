@@ -1,67 +1,50 @@
 # About this GitHub Organization. 
-*Note that this organization is currently under development. We are currently continuing to add resources and repositories as of 02/17/25.*
-
+*Note that this organization is currently under development. We are currently continuing to add resources and repositories as of 03/24/25.*
 
 This GitHub organization was built to act as a centralized resource to improve visibility of research occurring at UCSB NRS sites. If interested in hosting your research here, reach out to get added to the team or get your affiliated organization added to the index. 
 
-To get involved, see our [Quickstart Guide](https://github.com/UCSB-NRS/resources/blob/main/quickstart.md).
+## Click [HERE](https://github.com/UCSB-NRS/resources/blob/main/research-index.md) for Repositories Associated with UCSB NRS Sites  
+
+The above is a link to an index of research and projects occurring at or around UCSB NRS sites. Reach out to get your work added!
+
+For more on getting involved, see our [Quickstart Guide](https://github.com/UCSB-NRS/resources/blob/main/quickstart.md).
 
 ## Purpose / Motivation  
 At any given UCSB NRS site it can be difficult to know what research has been or is being done, what data is available, and who else is working there that could be a potential collaborator. The purpose of this organization is to provide a place for researchers to host their projects and get connected with others working at a given site. 
 
-Also facilitates collaboration through the Discussions, allows direct collaboration by granting others access to your code and the assignment of issues, etc. To learn more see [Advantages of Using GitHub](placeholderlink) . 
+Also facilitates collaboration through the Discussions, allows direct collaboration by granting others access to your code and the assignment of issues, etc. 
 
-## How it works
+### Who is this for?   
 
-Researchers that are interested in hosting their work here will be added to the organization, at which point they can either create a new repository to host their work or transfer a repository to the organization (at which point they will still maintain full ownership). 
+Graduate students, undergrads, research scientists, faculty members, and anyone who does work at the reserves! Our goal is to ensure that research happening at the reserves, and data being collected, doesn't get lost. This is not only for projects leading to publications, we're interested in any work asking and answering questions at the reserves. We're particularly interested in folks like graduate students, who may complete a project then move on.
 
-Researchers will only have write access to their own repositories, unless granted access by another repository owner for collaboration. Additionally, if a researcher does not want their work publicly visible until publication they may set the repository to private until that time. 
+## How it works   
 
-If you want your repository displayed on you personal GitHub profile, you can:
+The primary function of this organization is to aggregate research and other projects that are associated with the reserve. These links, organized by site then research group or grant and accompanied with short descriptions, are aggregated in our [Index of Research](https://github.com/UCSB-NRS/resources/blob/main/research-index.md). 
 
-1. Pin the repository to your profile
-2. Fork the repository
+Alternatively, if researchers are interested in showcasing their work in the organization, we can fork their repositories. This add the repository the organization repository list, and we would also add the repository to the index. The fork would be set up to automatically stay up to date with the original, and we would make no changes. The idea of this is simply to further increase visibility
 
-If you’re already hosting your research on another GitHub organization (e.g. a lab group) we can either add a link to your work to our index, or we can fork your repository to the organization. 
+If you have a lab group that primarily conducts research at one or more UCSB NRS sites, we can also add a link to your organization to our list. 
 
 ## Contact / Getting Involved
 
-To be added to the organization, or if you have any questions or suggestions for improvements reach out to: 
+To have your repository added to the index, and/or forked, as well as comments or suggestions reach out to: 
 
 patmccornack@ucsb.edu
 
-or
+# Organizations/Groups Affiliated with the UCSB NRS
+### Mountain Lakes Research Group
+[Website](https://mountainlakesresearch.com/)
+[Github Organization](https://github.com/SNARL1)
+Note that while the Github organization is named after the Sierra Nevada Aquatic Research Laboratory (SNARL), it has primarily been used by the Mountain Lakes Research Group - a group focused on using science to solve management challenges in California's Sierra Nevada lake ecosystems.
 
-nrs-nrs-data@ucsb.edu
 
-# Structure
-
-Repository names are prefixed by the site that they are associated with. The site prefix key can be found below in table 1. In order to find research projects at a particular site, using the “Find a repository” search bar and enter the prefix for that site. We request that all members of the organization follow the convention of prefixes their repository name by site. 
-
-External repositories can be found in our [Research Index](placeholderlink) page.
-
-|Site | Prefix |
-|-----|--------|
-|Santa Cruz Island   | sci |
-|Carpinteria         | carp |
-|Coal Oil Point      | cop |
-|K.S.N Rancho Marino | rancho |
-|Sedgwick            | sedg    |
-|Valentine Eastern Sierra Reserves | vesr |
-
-__Table 1:__ Site prefix key. Note that VESR includes both Valentine Camp and SNARL. 
-
-Additionally, repositories can be categorized using “topic” tags such as “botany”, “climate”, “hydrology”, etc. The set of tags is still under development as the organization evolves - reach out with any suggestions!
-
-# Other Resources/Links  
-_This section is under development_
+# Resources/Links  
 
 - Documents
     - [Quickstart Guide](https://github.com/UCSB-NRS/resources/blob/main/quickstart.md)
     - [Best Practices](https://github.com/UCSB-NRS/resources/blob/main/best-practices.md)
-    - Advantages of Using GitHub
-    - Research Index
-    - FAQ
+    - [Research Index](https://github.com/UCSB-NRS/resources/blob/main/quickstart.md)
  
 - Data Sources
     - [Dendra](https://dendra.science/)
