@@ -34,8 +34,8 @@ patmccornack@ucsb.edu
 
 # Organizations/Groups Affiliated with the UCSB NRS
 ### Mountain Lakes Research Group
-[Website](https://mountainlakesresearch.com/)
-[Github Organization](https://github.com/SNARL1)
+[Website](https://mountainlakesresearch.com/)  
+[Github Organization](https://github.com/SNARL1)   
 Note that while the Github organization is named after the Sierra Nevada Aquatic Research Laboratory (SNARL), it has primarily been used by the Mountain Lakes Research Group - a group focused on using science to solve management challenges in California's Sierra Nevada lake ecosystems.
 
 
